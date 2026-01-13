@@ -94,15 +94,28 @@ In parallel, I work as an **AI-Augmented, Prompt-Driven Full-Stack Developer**, 
 
 ## 👨🏻‍🔬 Research & Engineering Focus
 
-![System Flow](flow.drawio.svg)
-
 ```mermaid
 flowchart TD
-    A[Domain diversities] --> B[Embedded Systems]
-    A --> C[IoT Systems]
-    A --> D[Automation & Control]
-    A --> E[Applied AI / ML]
-    A --> F[Full-Stack Development]
+    A[Domain Diversities]:::core
+    B[Embedded Systems]:::embedded
+    C[IoT Systems]:::iot
+    D[Automation & Control]:::control
+    E[Applied AI / ML]:::ai
+    F[Full-Stack Development]:::fullstack
+
+    A --> B
+    A --> C
+    A --> D
+    A --> E
+    A --> F
+
+    %% Class definitions
+    classDef core fill:#020617,stroke:#38bdf8,stroke-width:2px,color:#ffffff
+    classDef embedded fill:#0ea5e9,stroke:#0284c7,color:#ffffff
+    classDef iot fill:#22c55e,stroke:#16a34a,color:#ffffff
+    classDef control fill:#f97316,stroke:#ea580c,color:#ffffff
+    classDef ai fill:#a855f7,stroke:#7e22ce,color:#ffffff
+    classDef fullstack fill:#eab308,stroke:#ca8a04,color:#1f2937
 ```
 <!-- ================================================== --> <!-- SYSTEMS ENGINEERING STACK --> <!-- ================================================== -->
 🏗️ Systems Engineering Stack
