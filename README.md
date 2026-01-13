@@ -94,7 +94,7 @@ In parallel, I work as an **AI-Augmented, Prompt-Driven Full-Stack Developer**, 
 
 ## 👨🏻‍🔬 Research & Engineering Focus
 
-![System Flow](flow.drawio.png)
+![System Flow](flow.drawio.svg)
 
 ```mermaid
 flowchart TD
