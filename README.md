@@ -361,7 +361,7 @@ Philosophy: Co-design of hardware, control, intelligence, and software — engin
 #### 🗄️ Data & Infrastructure (Persistence & Ops)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 </p>
 
 <p align="center">
@@ -426,11 +426,55 @@ Philosophy: Co-design of hardware, control, intelligence, and software — engin
 </div>
 
 
-<p align="center"></td> </tr> </table >
-💻 Tech Stack (Snapshot)
-<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,nodejs,express,postgres,sqlite,arduino,raspberrypi,linux,git,figma" /> </p>
+## 💻 Tech Stack
 
-📂 Representative Work
+<!-- Row 1: Embedded Systems & EDA -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
+  <img src="https://www.kicad.org/img/kicad_logo_small.png" width="75" alt="KiCad Logo"/>
+  <img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/logos/ltspice.png?itok=MVgB4Gip" width="40" alt="LTspice Logo"/>
+  <img src="https://raw.githubusercontent.com/fritzing/fritzing-app/master/resources/images/fritzing_icon.png" width="40" alt="Fritzing"/>
+  <img src="https://skillicons.dev/icons?i=linux" />
+<!-- Row 2: Frontend Technologies -->
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+  <img src="https://skillicons.dev/icons?i=vite" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBPptTCly4iObstVg2CsJzieqy3fZx1O4YLA&s" width="45" alt="Postcss Logo" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=d3" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj13jeywGteNFahKgDH9qrh3kRlKY2YcoSyA&s" width="45" alt="Chartjs Logo" />
+<!-- Row 3: Backend & APIs -->
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=npm" />
+  <img src="https://www.jwt.io/img/logo-asset.svg" width="95" alt="JWT Logo" />
+  <!-- Row 4: Databases & Deployment -->
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://assets.findstack.com/hf8tetz6wrjfxx6vxooc6igw3tah" width="46" alt="Render Logo" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <!-- Row 5: Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+
+<div align="center">
+  <strong>
+    <span style="font-size: 18px;">
+    🧩 A structured, production-oriented technology stack spanning embedded systems, full-stack web engineering, and deployment infrastructure.
+  </span>
+  </strong>
+</div>
+
+
+## 📂 Representative Work
 Embedded Automation Systems — Closed-loop control platforms
 
 IoT Monitoring Systems — Edge-to-cloud pipelines
@@ -439,7 +483,7 @@ ML-Enhanced Control Research — Hybrid ML + PID
 
 Production Web Applications — Secure & scalable
 
-🤝 Collaboration & Opportunities
+## 🤝 Collaboration & Opportunities
 R&D-Focused Engineering Roles
 
 Embedded & IoT Product Teams
