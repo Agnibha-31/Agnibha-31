@@ -2,6 +2,7 @@
 <!--            GITHUB PROFILE README (PRO)             -->
 <!-- ================================================== -->
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=30:8a0af2,100:0a63f2&height=220&section=header&text=Embedded%20Systems%20and%20IoT%20Engineer&fontSize=36&fontColor=ffffff&fontAlignY=38" />
@@ -17,6 +18,19 @@
 <img src="https://img.shields.io/badge/Stacking-Full%20Stack%20Development-f27507?style=for-the-badge"/>
 
 </div>
+
+
+<br/>
+<!-- Live GitHub Clock Widget -->
+<p align="center">
+  <img
+    src="https://github-live-clock.vercel.app/api/clock"
+    alt="Live IST Clock"
+    width="700"
+    height="300"
+  />
+</p>
+
 
 ---
 
