@@ -2,6 +2,16 @@
 <!--            GITHUB PROFILE README (PRO)             -->
 <!-- ================================================== -->
 
+<p align="center">
+  <img
+    src="https://media1.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif"
+    alt="Robot waving"
+    width="250"
+  />
+</p>
+<br/>
+
+
 
 <div align="center">
 
@@ -540,8 +550,17 @@ flowchart TD
   </a>
 </p>
 
+<br/>
+<p align="center">
+  <img
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhjZG10MHo4NHlyZHVwbjBtOHp4dXd6aGd6NnlseTBxcnd4czdqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BLjAZe2qMKUnZNU7e8/giphy.gif"
+    alt="Robot waving"
+    width="250"
+  />
+</p>
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=30:8a0af2,100:0a63f2&height=220&section=footer&text=Engineering%20depth.%20Research%20rigor.%20Production-grade%20execution.&fontSize=26&fontColor=ffffff&fontAlignY=65"/> <br/>  </div>
+
 
 
 
