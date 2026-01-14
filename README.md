@@ -266,7 +266,7 @@ Philosophy: Co-design of hardware, control, intelligence, and software — engin
 
 <p align="center">
   <img
-    src="https://cdn.prod.website-files.com/65f854814fd223fc3678ea53/65f854814fd223fc3678eefe_64ecb5a1f70f5bb498e7aa4a_PID-Controller-Explained.png" width="88" alt="PID Logo" />
+    src="https://info.erdosmiller.com/hs-fs/hubfs/blog3.png?width=655&name=blog3.png" width="88" alt="PID Logo" />
 </p>
 
 - PID design & tuning  
@@ -319,7 +319,7 @@ Philosophy: Co-design of hardware, control, intelligence, and software — engin
 #### 🤖 ML-Assisted Control
 
 <p align="center">
-<img src="https://lh3.googleusercontent.com/rd-gg-dl/ABS2GSks6C8H_a0k1cCpFYOQoQAVPSbYbDjMB3OVaHbpKOC92Ve0gtUUV4OGZrMVtvnikACbYBr2m16mcXLJcqExlQcFUGIMooZVf-E_UDuyZl5x9gKenI6Unaw9hGbOoye0O74mqukhtFr75HkJKQsJcy89wIVlYl7LBDV1vYJVU7ahTW2Jk-iqaF2bXrZ5Evz2QmXYF5WL7_N1-jWeEk2GmyX1rNy071XvsD5rqgyRW9NW13nEWGfgDIzUXeIW2mU3OVX6VktQgKCBhan_Q281JSIBeWX_AtR4xu1hGaXHJGLinvoAEuFRjflNnb6FSz5ilBGMo4mM0FqvEV8IRbpCzPYAS-B-bIGI5IlRAP-qO1hJyqgOhfNEVO3jJFRrW6NbMns4Sf6_UebKOqk9GQNwZAQxHVrmUUafwAmLj08sePSVd3kBbYA-LHNI37gs7DdqWMv4JUG-7TQD1EoD0uA2D4I2L1wMQ1Ym5HQWAhcNEE7ubjYrLacaxIhbYItDT8wrAzwqei2VKPH7lHpH7PA71e7eg_1-X8BxUj3ocUGvdRfOfAYHawrbwhqRoeYICABTiLIaGsFk7TMXlK7CaUCTUgiJ5c2s_skYfb0sa_Vz3k8-PxNdbWRBbMyuYUBm7-E38hfrPZUpjsK0Jeuthy2VLEtvhneP2-GGAIS_xGsQ47-f9Tib1aKgYRE0ONS5UBHYTLFqpgg2GLKpW6sdnIW4f0Qx-Tn3SZTrrgcCbpNbyyvXlUgN75h7n_6WyEut01ncnrA6QSB_JICCe4oiPtwdbCPrElYEstcySjSjkks5D5jz4aS3qbZRh2cPbEsi-LvIsE8Pbtq6Fp7C2IOGc0u1m6E_SQYVPNsS0NMKjosqsLHQDZLq-4Q1rzO2pirmTCTJsTUoGi86llOPdo6_hQu77rpcLTYnLwohlBfWF9LwqB5LuPszHpIrn_0j0AcJglRqlZoTl2tSCOhvczPVpVjuSKZwQi3oGPHUli9SnlV9FuQBduxDSeVwAM2VPZMg6t6d93ZmGpseO6voogjpaFA0bS7Yobih4VUB8q5bw_R1lAT_ex71rItQroHAp7Rn7OJkEhr0zV9sTcGcQulKlo-lNdzgi2XHjASqyaRc8n9KYGRQ81Nn3G0PU96NdtkI3C51qFa-KTFQuKsef2Fpjhr9mzdPUg2cMybqOOksi6QPJ0tIRTrpGRK-_Psw2U_s--ld18LGkRMxbF4ZrsTIYS7_W9WsXFqUPtMqUxY6nUJQIVzOv63IWB4oRlHD_X0piKg3J0w_M4oDwy3ong2rijlha1MAmjStywQ3tHMHXHsEticPZI641bzHSA6vHacZvbp4Nb8YgZJR5Lc7xTA4mLy-e0t7LohFGidhDKYJDA=s1024-rj" width="88" alt="ML assisted Logo" />
+<img src="https://media.licdn.com/dms/image/v2/D4E12AQE06oA_2s_JfA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1686739174329?e=2147483647&v=beta&t=GtMI64B25pCwUiVrkV5An2ta72lC64uyLvmykVwyPBI" width="130" alt="ML assisted Logo" />
 </p>
 
 - ML + PID hybrid strategies  
@@ -349,7 +349,7 @@ Philosophy: Co-design of hardware, control, intelligence, and software — engin
 #### 📟 Intelligent Automation
 
 <p align="center">
-<img src="https://it360.co.nz/wp-content/uploads/2024/10/ia.jpg" width="108" alt="Intelligent automation Logo" />
+<img src="https://it360.co.nz/wp-content/uploads/2024/10/ia.jpg" width="140" alt="Intelligent automation Logo" />
 </p>
 
 - Decision logic  
