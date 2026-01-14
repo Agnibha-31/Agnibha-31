@@ -4,8 +4,7 @@
   "description": "Professional GitHub hero banner with SVG and Vercel API",
   "main": "api/hero.ts",
   "scripts": {
-    "dev": "vercel dev",
-    "build": "vercel build"
+    "dev": "vercel dev"
   },
   "keywords": [
     "github",
