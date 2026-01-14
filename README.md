@@ -9,7 +9,7 @@
 
 ### 🎓 R&D | Automation | Control Systems | AI-Augmented Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&color=f01657&center=true&vCenter=true&width=900&lines=Embedded+Systems+%26+IoT+Engineer;Research+%26+Development;Automation+%7C+Control+Systems+%7C+ML+%2B+PID;AI-Augmented+Prompt-Driven+Full-Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&color=0EEDC5&center=true&vCenter=true&width=900&lines=Embedded+Systems+%26+IoT+Engineer;Research+%26+Development;Automation+%7C+Control+Systems+%7C+ML+%2B+PID;AI-Augmented+Prompt-Driven+Full-Stack+Developer" />
 
 <br/>
 
