@@ -1,0 +1,23 @@
+{
+  "name": "github-hero-banner",
+  "version": "1.0.0",
+  "description": "Professional GitHub hero banner with SVG and Vercel API",
+  "main": "api/hero.ts",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build"
+  },
+  "keywords": [
+    "github",
+    "banner",
+    "svg",
+    "vercel"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "@vercel/node": "^3.0.0"
+  }
+}
