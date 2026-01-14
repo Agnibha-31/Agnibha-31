@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=30:8a0af2,100:0a63f2&height=220&section=header&text=Embedded%20Systems%20and%20IoT%20Engineer&fontSize=36&fontColor=ffffff&fontAlignY=38" />
 
-### ­ƒÄô R&D | Automation | Control Systems | AI-Augmented Full-Stack Developer
+### ­🎓 R&D | Automation | Control Systems | AI-Augmented Full-Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&color=0EEDC5&center=true&vCenter=true&width=900&lines=Embedded+Systems+%26+IoT+Engineer;Research+%26+Development;Automation+%7C+Control+Systems+%7C+ML+%2B+PID;AI-Augmented+Prompt-Driven+Full-Stack+Developer" />
 
@@ -34,7 +34,7 @@
 
 ---
 
-## ­ƒæ¿­ƒÅ╗ÔÇì­ƒÄô Professional Overview
+## ­👨🏻‍🎓 Professional Overview
 
 I am an **Embedded Systems and IoT Engineer** working in the **Research & Development** domain, focused on building **new technologies, intelligent systems, and automation platforms**.
 
@@ -47,7 +47,7 @@ In parallel, I work as an **AI-Augmented, Prompt-Driven Full-Stack Developer**, 
 ---
 
 
-## ­ƒÆ╗ Tech Stack
+## ­👨🏻‍💻 Tech Stack
 
 <!-- Row 1: Embedded Systems & EDA -->
 <p align="center">
@@ -98,7 +98,7 @@ In parallel, I work as an **AI-Augmented, Prompt-Driven Full-Stack Developer**, 
 <div align="center">
   <strong>
     <span style="font-size: 18px;">
-    ­ƒº« A structured, production-oriented technology stack spanning Embedded Systems with IoT, full-stack web engineering, Automation and deployment infrastructure.
+   🧩 ­A structured, production-oriented technology stack spanning Embedded Systems with IoT, full-stack web engineering, Automation and deployment infrastructure.
   </span>
   </strong>
 </div>
@@ -106,7 +106,7 @@ In parallel, I work as an **AI-Augmented, Prompt-Driven Full-Stack Developer**, 
 
 ---
 
-## ­ƒæ¿­ƒÅ╗ÔÇì­ƒö¼ Research & Engineering Focus
+## 👨🏻‍🔬 Research & Engineering Focus
 
 ```mermaid
 flowchart TD
@@ -132,24 +132,23 @@ flowchart TD
     classDef fullstack fill:#eab308,stroke:#ca8a04,color:#1f2937
 ```
 <!-- ================================================== --> <!-- SYSTEMS ENGINEERING STACK --> <!-- ================================================== -->
-­ƒÅù´©Å Systems Engineering Stack
-Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö engineered as one system, not isolated parts.
+ ⚙️Systems Engineering Stack: Co-design of hardware, control, intelligence, and software, engineered as one system, not isolated parts.
 
 <!-- ================= EMBEDDED SYSTEMS & IOT ENGINEERING ================= -->
 
-## ­ƒæ¿­ƒÅ╗ÔÇì­ƒÆ╗ Embedded Systems & IoT Engineering
+## 👨🏻‍💻­ Embedded Systems & IoT Engineering
 
 > **Engineering scope:** Hardware-centric system design spanning sensing, computation, communication, and edge-to-cloud integration.
 
 ---
 
-### ­ƒö╣ Core Embedded Domains
+### ­🔸 Core Embedded Domains
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-#### ÔÜÖ´©Å Embedded Compute
+#### Embedded Compute
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
@@ -164,7 +163,7 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 
 <td width="33%" valign="top">
 
-#### ­ƒö¼ Sensors & Instrumentation
+#### ­🔬 Sensors & Instrumentation
 
 <p align="center">
   <img src="https://sc-sensors-greenchemistry.com/Icon_fmipa_kimia.ico" width="80" alt="Sensor logo" />
@@ -179,13 +178,13 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 
 <td width="33%" valign="top">
 
-#### ­ƒôÂ Communication Systems
+#### ­📶 Communication Systems
 
 <p align="center">
   <img src="https://img.freepik.com/premium-vector/understanding-wireless-communication-key-components-technologies-illustrated_1300528-17806.jpg" width="88" alt="Communication logo" />
 </p>
 
-- UART, I┬▓C, SPI  
+- UART, I²C, SPI  
 - RS-485, Modbus  
 - Robust device communication  
 - Fault-tolerant data exchange  
@@ -196,13 +195,13 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 
 ---
 
-### ­ƒö╣ System Realization & Integration
+### ­🔸 System Realization & Integration
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### ­ƒøá´©Å Hardware Design & Validation
+#### 🛠️­ Hardware Design & Validation
 
 <p align="center">
 <img src="https://www.kicad.org/img/kicad_logo_small.png" width="75" alt="KiCad Logo"/>
@@ -220,7 +219,7 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 
 <td width="50%" valign="top">
 
-#### ­ƒÆ¡ IoT System Integration
+#### ­🛜 IoT System Integration
 
 <p align="center">
   <img
@@ -228,7 +227,7 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 </p>
 
 
-- **Pipeline:** Sensor ÔåÆ MCU ÔåÆ Edge ÔåÆ Cloud  
+- **Pipeline:** Sensor MCU Edge Cloud  
 - Data acquisition pipelines  
 - Edge orchestration & monitoring  
 - Production-ready integration  
@@ -242,7 +241,7 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 <div align="center">
   <strong>
     <span style="font-size: 18px;">
-      ÔÜÆ´©Å Hardware-first, reliability-driven embedded system engineering ÔÇö designed for production environments, not demos.
+    🎥 Hardware-first, reliability-driven embedded system engineering designed for production environments, not demos.
     </span>
   </strong>
 </div>
@@ -250,19 +249,19 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 
 <!-- ================= CONTROL SYSTEMS & AUTOMATION ENGINEERING ================= -->
 
-## ­ƒÄø´©Å Control Systems & Automation Engineering
+## 🎛️­ Control Systems & Automation Engineering
 
 > **Engineering scope:** Design, analysis, and implementation of closed-loop control systems for real physical processes.
 
 ---
 
-### ­ƒö╣ Core Control Engineering Domains
+### ­🔸 Core Control Engineering Domains
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-#### ­ƒÄÜ´©Å Classical Control
+#### 🕹️­ Classical Control
 
 <p align="center">
   <img
@@ -278,7 +277,7 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 
 <td width="33%" valign="top">
 
-#### ­ƒôê System Identification
+#### ­🎚️ System Identification
 
 <p align="center">
 <img src="https://www.mathworks.com/products/sysid/_jcr_content/thumbnail.adapt.1200.medium.jpg/1615310272140.jpg" width="88" alt="System identification Logo" />
@@ -293,14 +292,14 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 
 <td width="33%" valign="top">
 
-#### ÔÅ▒´©Å Real-Time Control
+#### ⏱️ Real-Time Control
 
 <p align="center">
 <img src="https://static.vecteezy.com/system/resources/previews/054/471/898/non_2x/tracking-equipment-blue-gradient-concept-icon-real-time-tracking-and-monitoring-field-service-management-round-shape-line-illustration-abstract-idea-graphic-design-easy-to-use-in-article-vector.jpg" width="88" alt="Real time Logo" />
 </p>
 
 - Real-time feedback loops  
-- Sensor ÔåÆ controller ÔåÆ actuator  
+- Sensor controller actuator  
 - Embedded implementation  
 - Deterministic execution  
 
@@ -310,13 +309,13 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 
 ---
 
-### ­ƒö╣ Automation & Intelligent Control
+### 🔸­ Automation & Intelligent Control
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-#### ­ƒñû ML-Assisted Control
+#### ­🤖 ML-Assisted Control
 
 <p align="center">
 <img src="https://media.licdn.com/dms/image/v2/D4E12AQE06oA_2s_JfA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1686739174329?e=2147483647&v=beta&t=GtMI64B25pCwUiVrkV5An2ta72lC64uyLvmykVwyPBI" width="130" alt="ML assisted Logo" />
@@ -331,7 +330,7 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 
 <td width="33%" valign="top">
 
-#### ­ƒôè Data-Driven Modeling
+#### ­📈 Data-Driven Modeling
 
 <p align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSQNnsJ8rdybdBPz14xczfZyaMLtC_9-bx9g&s" width="88" alt="Data driven modelling Logo" />
@@ -346,7 +345,7 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 
 <td width="33%" valign="top">
 
-#### ­ƒôƒ Intelligent Automation
+#### ­📟 Intelligent Automation
 
 <p align="center">
 <img src="https://it360.co.nz/wp-content/uploads/2024/10/ia.jpg" width="140" alt="Intelligent automation Logo" />
@@ -366,7 +365,7 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 <div align="center">
   <strong>
     <span style="font-size: 18px;">
-      ­ƒò╣´©Å Control logic engineered for real physical systems ÔÇö validated through experiments, not simulations alone.
+     ✅ Control logic engineered for real physical systems validated through experiments, not simulations alone.
     </span>
   </strong>
 </div>
@@ -375,20 +374,20 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 </td> </tr> </table>
 <!-- ================= AI-AUGMENTED FULL-STACK ENGINEERING ================= -->
 
-## ­ƒôæ AI-Augmented Full-Stack Engineering
+## ­🗃️ AI-Augmented Full-Stack Engineering
 
 > **Engineering scope:** End-to-end software systems designed with architectural rigor, performance constraints, and AI-assisted development workflows.
 
 ---
 
 
-### ­ƒö╣ Application Architecture Layers
+### ­🔸 Application Architecture Layers
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-#### ­ƒ¬ƒ Frontend Systems (User Interfaces)
+#### ­🖼️ Frontend Systems (User Interfaces)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind" />
@@ -403,7 +402,7 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 - React + TypeScript (.tsx) component-driven architecture  
 - Vite-powered high-performance builds  
 - Tailwind CSS + PostCSS utility-first styling  
-- shadcn/uiÔÇôbased design system & components  
+- Shadcn/UI based design system & components  
 - Context API for application-wide state  
 - Industrial dashboards, gauges & trend analysis  
 - Animated inputs, transitions & device modals  
@@ -412,7 +411,7 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 
 <td width="33%" valign="top">
 
-#### ­ƒÜ¬ Backend Systems (APIs & Logic)
+#### 🚪­ Backend Systems (APIs & Logic)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,js,npm" />
@@ -434,7 +433,7 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 
 <td width="33%" valign="top">
 
-#### ­ƒùé´©Å Data & Infrastructure (Persistence & Ops)
+#### ­📊 Data & Infrastructure (Persistence & Ops)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
@@ -462,7 +461,7 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 <div align="center">
   <strong>
     <span style="font-size: 18px;">
-    ­ƒº« Layered application architecture engineered for real production systems ÔÇö UI, APIs, data, and infrastructure designed together, not in isolation.
+    🗂️­ Layered application architecture engineered for real production systems UI, APIs, data, and infrastructure designed together, not in isolation.
     </span>
   </strong>
 </div>
@@ -471,21 +470,21 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 
 ---
 
-### ­ƒö╣ AI-Augmented Engineering Workflow
+### 🔸 AI-Augmented Engineering Workflow
 
 <table>
 <tr>
 <td width="100%" valign="top" >
 
-#### ­ƒÄ» Guided Workflow
+#### ­🧮 Guided Workflow
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5612AQEgxuUWToZNwg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1739214991840?e=2147483647&v=beta&t=JWq05D9ksCSyYZoCSqTxwdXTPOUku8t4nGqncjpKzPE" width="118" alt="Workflow logo" />
 </p>
 
-- **Prompt-Driven Development** ÔåÆ AI guided by explicit architectural constraints  
-- **System-Level Reasoning** ÔåÆ Design decisions before implementation  
-- **Human-in-the-Loop Validation** ÔåÆ Review, refactoring, optimization  
-- **Production Discipline** ÔåÆ Maintainability, scalability, fault tolerance  
+- **Prompt-Driven Development:** AI guided by explicit architectural constraints  
+- **System-Level Reasoning:** Design decisions before implementation  
+- **Human-in-the-Loop Validation:** Review, refactoring, optimization  
+- **Production Discipline:** Maintainability, scalability, fault tolerance  
 
 </td>
 </tr>
@@ -496,41 +495,41 @@ Philosophy: Co-design of hardware, control, intelligence, and software ÔÇö en
 <div align="center">
   <strong>
     <span style="font-size: 18px;">
-    ÔÜí Full-stack systems engineered with the same rigor as embedded hardware ÔÇö not rapid prototypes.
+    📚 Full-stack systems engineered with the same rigor as embedded hardware, not rapid prototypes.
   </span>
   </strong>
 </div>
 
 
-## ­ƒôé Representative Work
-Embedded Automation Systems ÔÇö Closed-loop control platforms
+## 🧰­ Representative Work
+- Embedded Automation Systems ÔÇö Closed-loop control platforms
 
-IoT Monitoring Systems ÔÇö Edge-to-cloud pipelines
+- IoT Monitoring Systems ÔÇö Edge-to-cloud pipelines
 
-ML-Enhanced Control Research ÔÇö Hybrid ML + PID
+- ML-Enhanced Control Research ÔÇö Hybrid ML + PID
 
-Production Web Applications ÔÇö Secure & scalable
+- Production Web Applications ÔÇö Secure & scalable
 
-## ­ƒñØ Collaboration & Opportunities
-R&D-Focused Engineering Roles
+## 🤝🏻­ Collaboration & Opportunities
+- R&D-Focused Engineering Roles
 
-Embedded & IoT Product Teams
+- Embedded & IoT Product Teams
 
-Automation & Control Research
+- Automation & Control Research
 
-Deep-Tech & Applied AI Startups
+- Deep-Tech & Applied AI Startups
 
 
 <div align="center">
   <strong>
     <span style="font-size: 18px;">
-    ­ƒô¼ LetÔÇÖs build intelligent systems that tightly couple hardware, software, and intelligence.
+    ­🏗️ Lets build intelligent systems that tightly couple hardware, software, and intelligence.
   </span>
   </strong>
 </div>
 
 
-## ­ƒîÉ Socials
+## ­🌐 Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/agnibhabasak31">
@@ -543,4 +542,5 @@ Deep-Tech & Applied AI Startups
 
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=30:8a0af2,100:0a63f2&height=220&section=footer&text=Engineering%20depth.%20Research%20rigor.%20Production-grade%20execution.&fontSize=26&fontColor=ffffff&fontAlignY=65"/> <br/>  </div>
+
 
