@@ -518,13 +518,13 @@ flowchart TD
 
 
 ## 🧰­ Representative Work
-- Embedded Automation Systems ÔÇö Closed-loop control platforms
+- Embedded Automation Systems: Closed-loop control platforms
 
-- IoT Monitoring Systems ÔÇö Edge-to-cloud pipelines
+- IoT Monitoring Systems: Edge-to-cloud pipelines
 
-- ML-Enhanced Control Research ÔÇö Hybrid ML + PID
+- ML-Enhanced Control Research: Hybrid ML + PID
 
-- Production Web Applications ÔÇö Secure & scalable
+- Production Web Applications: Secure & scalable
 
 ## 🤝🏻­ Collaboration & Opportunities
 - R&D-Focused Engineering Roles
@@ -566,6 +566,7 @@ flowchart TD
 </p>
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=30:8a0af2,100:0a63f2&height=220&section=footer&text=Engineering%20depth.%20Research%20rigor.%20Production-grade%20execution.&fontSize=26&fontColor=ffffff&fontAlignY=65"/> <br/>  </div>
+
 
 
 
