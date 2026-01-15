@@ -2,6 +2,13 @@
 <!--            GITHUB PROFILE README (PRO)             -->
 <!-- ================================================== -->
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=30:8a0af2,100:0a63f2&height=220&section=header&text=Embedded%20Systems%20and%20IoT%20Engineer&fontSize=36&fontColor=ffffff&fontAlignY=38" />
+
+### ­🎓 R&D | Automation | Control Systems | AI-Augmented Full-Stack Developer
+
+
 <p align="center">
   <img
     src="https://media1.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif"
@@ -10,13 +17,8 @@
   />
 </p>
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=30:8a0af2,100:0a63f2&height=220&section=header&text=Embedded%20Systems%20and%20IoT%20Engineer&fontSize=36&fontColor=ffffff&fontAlignY=38" />
-
-### ­🎓 R&D | Automation | Control Systems | AI-Augmented Full-Stack Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=800&color=0EEDC5&center=true&vCenter=true&width=900&lines=Embedded+Systems+%26+IoT+Engineer;Research+%26+Development;Automation+%7C+Control+Systems+%7C+ML+%2B+PID;AI-Augmented+Prompt-Driven+Full-Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=800&color=0EEDC5&center=true&vCenter=true&width=900&lines=Embedded+Systems+%26+IoT+Engineer;Research+%26+Development;Automation+%7C+Control+Systems+%7C+ML+%2B+PID;AI-Augmented+Prompt-Driven+Full-Stack+Developer" />
 
 <br/>
 
@@ -564,6 +566,7 @@ flowchart TD
 </p>
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=30:8a0af2,100:0a63f2&height=220&section=footer&text=Engineering%20depth.%20Research%20rigor.%20Production-grade%20execution.&fontSize=26&fontColor=ffffff&fontAlignY=65"/> <br/>  </div>
+
 
 
 
