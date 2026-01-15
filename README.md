@@ -2,10 +2,6 @@
 <!--            GITHUB PROFILE README (PRO)             -->
 <!-- ================================================== -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=30:8a0af2,100:0a63f2&height=220&section=header&text=Embedded%20Systems%20and%20IoT%20Engineer&fontSize=36&fontColor=ffffff&fontAlignY=38" />
-
 <p align="center">
   <img
     src="https://media1.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif"
@@ -14,6 +10,9 @@
   />
 </p>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=30:8a0af2,100:0a63f2&height=220&section=header&text=Embedded%20Systems%20and%20IoT%20Engineer&fontSize=36&fontColor=ffffff&fontAlignY=38" />
 
 ### ­🎓 R&D | Automation | Control Systems | AI-Augmented Full-Stack Developer
 
@@ -558,6 +557,7 @@ flowchart TD
 </p>
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=30:8a0af2,100:0a63f2&height=220&section=footer&text=Engineering%20depth.%20Research%20rigor.%20Production-grade%20execution.&fontSize=26&fontColor=ffffff&fontAlignY=65"/> <br/>  </div>
+
 
 
 
