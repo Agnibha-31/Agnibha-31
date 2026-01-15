@@ -23,7 +23,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Primary%20Domain-Embedded%20Systems%20%26%20IoT-c12cf2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Integration-R%26D%20%7C%20Automation%20%7C%20AI-13a1f2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Integration-R%26D%20%7C%20Automation%20%7C%20AI%20%7C%20ML-13a1f2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Stacking-Full%20Stack%20Development-f27507?style=for-the-badge"/>
 
 </div>
@@ -566,4 +566,5 @@ flowchart TD
 </p>
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=30:8a0af2,100:0a63f2&height=220&section=footer&text=Engineering%20depth.%20Research%20rigor.%20Production-grade%20execution.&fontSize=26&fontColor=ffffff&fontAlignY=65"/> <br/>  </div>
+
 
