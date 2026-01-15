@@ -5,7 +5,7 @@
 <p align="center">
   <img
     src="https://media1.giphy.com/avatars/HeyAutoHQ/DgfrJNR8oUyv.gif"
-    alt="Robot waving"
+    alt="Robot welcoming"
     width="250"
   />
 </p>
@@ -557,6 +557,7 @@ flowchart TD
 </p>
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=30:8a0af2,100:0a63f2&height=220&section=footer&text=Engineering%20depth.%20Research%20rigor.%20Production-grade%20execution.&fontSize=26&fontColor=ffffff&fontAlignY=65"/> <br/>  </div>
+
 
 
 
