@@ -57,7 +57,7 @@ In parallel, I work as an **AI-Augmented, Prompt-Driven Full-Stack Developer**, 
 ---
 
 
-## ­👨🏻‍💻 Tech Stack
+## ­🔭 Tech Stack
 
 <!-- Row 1: Embedded Systems & EDA -->
 <p align="center">
@@ -158,7 +158,7 @@ flowchart TD
 <tr>
 <td width="33%" valign="top">
 
-#### Embedded Compute
+#### 💻 Embedded Compute
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
@@ -560,6 +560,7 @@ flowchart TD
 </p>
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=30:8a0af2,100:0a63f2&height=220&section=footer&text=Engineering%20depth.%20Research%20rigor.%20Production-grade%20execution.&fontSize=26&fontColor=ffffff&fontAlignY=65"/> <br/>  </div>
+
 
 
 
