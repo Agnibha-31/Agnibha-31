@@ -2,6 +2,18 @@
 <!--            GITHUB PROFILE README (PRO)             -->
 <!-- ================================================== -->
 
+<!-- Live GitHub Clock Widget -->
+<p align="center">
+  <img
+    src="https://github-live-clock.vercel.app/api/clock"
+    alt="Live IST Clock"
+    width="700"
+    height="300"
+  />
+</p>
+</b>
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=30:8a0af2,100:0a63f2&height=220&section=header&text=Embedded%20Systems%20and%20IoT%20Engineer&fontSize=36&fontColor=ffffff&fontAlignY=38" />
@@ -30,16 +42,6 @@
 
 
 <br/>
-<!-- Live GitHub Clock Widget -->
-<p align="center">
-  <img
-    src="https://github-live-clock.vercel.app/api/clock"
-    alt="Live IST Clock"
-    width="700"
-    height="300"
-  />
-</p>
-
 
 ---
 
@@ -566,6 +568,7 @@ flowchart TD
 </p>
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=30:8a0af2,100:0a63f2&height=220&section=footer&text=Engineering%20depth.%20Research%20rigor.%20Production-grade%20execution.&fontSize=26&fontColor=ffffff&fontAlignY=65"/> <br/>  </div>
+
 
 
 
