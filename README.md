@@ -325,7 +325,10 @@ flowchart TD
 #### ­🤖 ML-Assisted Control
 
 <p align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4E12AQE06oA_2s_JfA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1686739174329?e=2147483647&v=beta&t=GtMI64B25pCwUiVrkV5An2ta72lC64uyLvmykVwyPBI" width="130" alt="ML assisted Logo" />
+<img src="https://d7umqicpi7263.cloudfront.net/img/product/e5e33775-8f98-4ade-8454-c8d9d7598b1b.png" width="46" alt="Tensorflow"/>
+<img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/44dd9b00e3d64021bc36fea32f68cd84?ik-sanitizeSvg=true" width="50" alt="Pytorch"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="76" alt="Scikit Learn"/>
+<img src="https://images.opencollective.com/numpy/68c08d3/logo/256.png" width="50" alt="Numpy"/>
 </p>
 
 - ML + PID hybrid strategies  
@@ -340,7 +343,10 @@ flowchart TD
 #### ­📈 Data-Driven Modeling
 
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSQNnsJ8rdybdBPz14xczfZyaMLtC_9-bx9g&s" width="88" alt="Data driven modelling Logo" />
+<img src="https://scipy.org/images/logo.svg" width="52" alt="Scipy"/>
+<img src="https://pandas.pydata.org//static/img/favicon_white.ico" width="53" alt="Pandas"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/960px-Matplotlib_icon.svg.png" width="50" alt="Matplotlib"/>
+<img src="https://www.augustinfotech.com/app/uploads/2023/09/seaborn.svg" width="50" alt="Seaborn"/>
 </p>
 
 - Time-series analysis  
@@ -355,7 +361,8 @@ flowchart TD
 #### ­📟 Intelligent Automation
 
 <p align="center">
-<img src="https://it360.co.nz/wp-content/uploads/2024/10/ia.jpg" width="140" alt="Intelligent automation Logo" />
+<img src="https://d7umqicpi7263.cloudfront.net/img/product/e5e33775-8f98-4ade-8454-c8d9d7598b1b.png" width="46" alt="Tensorflow"/>
+<img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/44dd9b00e3d64021bc36fea32f68cd84?ik-sanitizeSvg=true" width="50" alt="Pytorch"/>
 </p>
 
 - Decision logic  
@@ -557,6 +564,7 @@ flowchart TD
 </p>
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=30:8a0af2,100:0a63f2&height=220&section=footer&text=Engineering%20depth.%20Research%20rigor.%20Production-grade%20execution.&fontSize=26&fontColor=ffffff&fontAlignY=65"/> <br/>  </div>
+
 
 
 
