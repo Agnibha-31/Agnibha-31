@@ -47,7 +47,7 @@
 
 I am an **Embedded Systems and IoT Engineer** working in the **Research & Development** domain, focused on building **new technologies, intelligent systems, and automation platforms**.
 
-I am currently a **Project Intern & Researcher at IIT Kharagpur**, where my work centers on **automation and control-oriented research**, integrating **machine learning techniques with classical control systems (PID-based architectures)**.
+I am currently a **Research-Project Intern at IIT Kharagpur**, where my work centers on **automation and control-oriented research**, integrating **machine learning techniques with classical control systems (PID-based architectures)**.
 
 In parallel, I work as an **AI-Augmented, Prompt-Driven Full-Stack Developer**, delivering **end-to-end, production-ready web applications**. My use of AI is **engineering-driven**, leveraging **precise prompts, architectural constraints, and system-level reasoning**.
 
@@ -566,5 +566,6 @@ flowchart TD
 </p>
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=30:8a0af2,100:0a63f2&height=220&section=footer&text=Engineering%20depth.%20Research%20rigor.%20Production-grade%20execution.&fontSize=26&fontColor=ffffff&fontAlignY=65"/> <br/>  </div>
+
 
 
